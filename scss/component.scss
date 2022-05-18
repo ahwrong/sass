@@ -64,5 +64,10 @@ table {
   ::-webkit-scrollbar-thumb {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
   }
-
+}
+// kakao map
+.map-info-window {
+  width: 150px;
+  text-align: center;
+  padding: 6px 0;
 }
